@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+```
+<title>Login | SmartAsset</title>
+
+<link rel="stylesheet" href="css/style.css">
+```
+
+</head>
+
+<body>
+
+```
+<div class="login-container">
+
+    <div class="login-box">
+
+        <h1>SmartAsset</h1>
+
+        <p>Smart Asset & Network Management System</p>
+
+        <h2>Login</h2>
+
+        <form>
+
+            <label for="username">Username</label>
+            <input
+                type="text"
+                id="username"
+                name="username"
+                placeholder="Enter your username"
+                required
+            >
+
+            <label for="password">Password</label>
+            <input
+                type="password"
+                id="password"
+                name="password"
+                placeholder="Enter your password"
+                required
+            >
+
+            <button type="submit">Login</button>
+
+        </form>
+
+        <a href="index.html">← Back to Home</a>
+
+    </div>
+
+</div>
+```
+
+</body>
+
+</html>

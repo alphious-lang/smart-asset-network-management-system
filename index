@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+```
+<title>Smart Asset & Network Management</title>
+
+<link rel="stylesheet" href="css/style.css">
+```
+
+</head>
+
+<body>
+
+```
+<!-- Navigation -->
+<header>
+    <div class="logo">SmartAsset</div>
+
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#features">Features</a>
+        <a href="#about">About</a>
+        <a href="login.html">Login</a>
+    </nav>
+</header>
+
+
+<!-- Home -->
+<section id="home" class="hero">
+
+    <div class="hero-content">
+
+        <h1>Smart Asset & Network Management</h1>
+
+        <p>
+            A centralized system for managing IT assets,
+            monitoring network devices, and improving
+            infrastructure visibility.
+        </p>
+
+        <a href="login.html" class="btn">
+            Get Started
+        </a>
+
+    </div>
+
+</section>
+
+
+<!-- Features -->
+<section id="features">
+
+    <h2>System Features</h2>
+
+    <div class="features">
+
+        <div>
+            <h3>Asset Management</h3>
+            <p>
+                Register, track and manage organizational
+                IT assets.
+            </p>
+        </div>
+
+        <div>
+            <h3>Network Monitoring</h3>
+            <p>
+                Monitor network devices and identify
+                their current status.
+            </p>
+        </div>
+
+        <div>
+            <h3>Reports</h3>
+            <p>
+                Generate reports about assets and
+                network infrastructure.
+            </p>
+        </div>
+
+    </div>
+
+</section>
+
+
+<!-- About -->
+<section id="about">
+
+    <h2>About the System</h2>
+
+    <p>
+        The Smart Asset & Network Management System helps
+        organizations efficiently manage IT assets and
+        monitor network infrastructure from one platform.
+    </p>
+
+</section>
+
+
+<!-- Footer -->
+<footer>
+
+    <p>
+        © 2026 Smart Asset & Network Management System
+    </p>
+
+</footer>
+```
+
+</body>
+
+</html>
